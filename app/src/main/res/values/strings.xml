@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">events.ua</string>
+    <string name="allevents">All events</string>
+    <string name="mytickets">My tickets</string>
+    <string name="login">Login</string>
+    <string name="enteremail">Enter email</string>
+    <string name="enterpass">Enter password</string>
+    <string name="enterbutton">Enter</string>
+    <string name="open">Open</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="choose">Choose a ticket</string>
+    <string name="buy">Buy the ticket</string>
+    <string name="no_tickets">You do not have tickets yet</string>
+
+</resources>

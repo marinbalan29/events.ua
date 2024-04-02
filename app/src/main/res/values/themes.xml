@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Eventsua" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/main</item>
+        <item name="fontFamily">@font/roboto_slab_bold</item>
+
+    </style>
+
+    <style name="Theme.Eventsua" parent="Base.Theme.Eventsua" />
+</resources>
